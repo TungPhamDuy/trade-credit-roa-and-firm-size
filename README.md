@@ -3,7 +3,7 @@
 **_License:
 This is a personal project of Tung Pham in order to serve as the midterm project for the Package for financial application course taken at the University of Economics and Law (VNU-HCM)_**
 
-**Project Title:** Examining the Effects of ROA and Firm Size on Company Trade Credit in Vietnam
+**Project Title:** Examining the Effects of ROA and Firm Size on Company Trade Credit in Vietnam 
 
 **Project Description:**
 This project is focused on analyzing the relationship between Return on Assets (ROA), firm size, and company trade credit in Vietnam. The project utilizes a dataset of 752 companies in Vietnam to perform exploratory data analysis (EDA), build regression models, and conduct tests for multicollinearity and heteroskedasticity. The goal of the project is to investigate the potential impact of ROA and firm size on receivables, and draw meaningful conclusions from the analysis.
